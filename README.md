@@ -52,12 +52,12 @@ The goal of this system is to enhance user interaction in voice-based platforms,
 ---
 
 ### Directory Structure
-project-root/
+'''project-root/
 ├── audio_data/ - Raw voice recordings by age group
 ├── mfcc_data/ - Preprocessed MFCC feature arrays
 ├── models/ - Trained model files
 ├── oneshotwedied.ipynb - Main notebook
-└── README.md
+└── README.md'''
 
 
 ---
