@@ -1,4 +1,4 @@
-### VoiceAgeClassifier
+### AIVoiceAgeClassifier
 
 This project is a machine learning-based voice age classification system developed as a Capstone Design project. It classifies a user's age group by analyzing their voice input, extracting MFCC features, and applying a convolutional neural network (CNN) model.
 
